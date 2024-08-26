@@ -1,5 +1,3 @@
-# biblioteca_pandas
-
 The dataset used consists of information about house rentals. The project development followed these steps:
 
 1) The Business Question: What is my goal? Find the best cost-benefit for your situation.
